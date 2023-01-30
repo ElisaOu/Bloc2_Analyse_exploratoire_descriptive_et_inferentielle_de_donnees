@@ -1,0 +1,2 @@
+# Bloc2_Analyse_exploratoire_descriptive_et_inferentielle_de_donnees
+ Analyse exploratoire, descriptive et inférentielle de données
