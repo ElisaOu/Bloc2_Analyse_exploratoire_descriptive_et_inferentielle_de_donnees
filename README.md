@@ -1,6 +1,5 @@
 # Bloc N° 2 : Analyse exploratoire, descriptive et inférentielle de données.
 
-[Video explain - Bloc 2](https://share.vidyard.com/watch/bmo5NLpm1oRZD3QYRwVbVb?)
 
 # Speed dating : What are the triggers to match ?
 
